@@ -1,16 +1,15 @@
-## Hi there 👋
+# Emmanuel Tshuma
 
-<!--
-**TT27/TT27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work in analytics and operations, with a growing interest in building software around the problems I encounter.
 
-Here are some ideas to get you started:
+Mostly SQL, data tooling, automation and experiments with AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current interests
+
+- Python and small developer utilities
+- AI agents and orchestration
+- Data engineering and workflow automation
+
+## Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/taboka-tshuma/) · [Email](mailto:Taboka.t27@gmail.com)
