@@ -1,14 +1,21 @@
 # Emmanuel Tshuma
 
-I work in analytics and operations, with a growing interest in building software around the problems I encounter.
+I work across operations, strategy and analytics, with experience at Uber, Salesforce and DHL Supply Chain. A lot of my work has involved investigating operational problems, improving reporting and turning data into decisions.
 
-Mostly SQL, data tooling, automation and experiments with AI.
+Outside of work, I build software to better understand the problems I'm interested in — particularly financial workflows, data quality and automation.
 
-## Current interests
+## Selected project
 
-- Python and small developer utilities
-- AI agents and orchestration
-- Data engineering and workflow automation
+**[StatementDesk — supplier statement reconciliation](https://github.com/TT27/Project_A)**  
+A local-first desktop application that compares supplier statements with accounts payable ledger exports, flags exceptions and supports documented review. Built with TypeScript, Electron, React and SQLite.
+
+The repository includes a [walkthrough using synthetic financial data](https://github.com/TT27/Project_A/blob/main/docs/DEMO.md), implementation notes and test documentation. It's a technical beta, not a commercial product.
+
+## Areas I work with
+
+- **Operational analytics:** SQL, KPI measurement, performance reporting and process improvement
+- **Data and automation:** Python, Power BI, Tableau, data workflows and validation
+- **Software projects:** TypeScript, desktop applications, AI experiments and local-first tools
 
 ## Elsewhere
 
